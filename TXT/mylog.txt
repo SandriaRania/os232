@@ -18,3 +18,4 @@ ZCZC W01 00 L05 QUIZ
 ZCZC W01 30 L09 Weekly Assignments (others while doing Weekly Assignment #1)
 ZCZC W01 120 L27 SSH, key-gen, local-host
 ZCZC W01 120 L31 VirtualBox (Installing and configuration)
+tes
