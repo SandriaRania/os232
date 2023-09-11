@@ -3,7 +3,7 @@
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 ZCZC W00 05 L00 General, etc.
 ZCZC W00 05 L01 SCELE/Discord related
-ZCZC W00 20 L02 CLASSROOM/ZOOM meetings related
+ZCZC W00 200 L02 CLASSROOM/ZOOM meetings related
 ZCZC W00 25 L03 GitHub related
 ZCZC W00 10 L04 GitHub Pages related
 ZCZC W00 120 L05 QUIZ
@@ -11,11 +11,11 @@ ZCZC W00 10 L09 Weekly Assignments
 ZCZC W00 30 L32 Youtube ("Visual Metaphor", Udacity)
 ZCZC W01 05 L00 General, etc.
 ZCZC W01 05 L01 SCELE/Discord related
-ZCZC W01 10 L02 CLASSROOM/ZOOM meetings related
+ZCZC W01 200 L02 CLASSROOM/ZOOM meetings related
 ZCZC W01 30 L03 GitHub related
 ZCZC W01 10 L04 GitHub Pages related
 ZCZC W01 00 L05 QUIZ
 ZCZC W01 30 L09 Weekly Assignments (others while doing Weekly Assignment #1)
 ZCZC W01 120 L27 SSH, key-gen, local-host
 ZCZC W01 120 L31 VirtualBox (Installing and configuration)
-tes
+
