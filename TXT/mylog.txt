@@ -14,8 +14,14 @@ ZCZC W01 05 L01 SCELE/Discord related
 ZCZC W01 200 L02 CLASSROOM/ZOOM meetings related
 ZCZC W01 30 L03 GitHub related
 ZCZC W01 10 L04 GitHub Pages related
-ZCZC W01 00 L05 QUIZ
+ZCZC W01 120 L05 QUIZ
 ZCZC W01 30 L09 Weekly Assignments (others while doing Weekly Assignment #1)
 ZCZC W01 120 L27 SSH, key-gen, local-host
 ZCZC W01 120 L31 VirtualBox (Installing and configuration)
-
+ZCZC W02 05 L00 General, etc.
+ZCZC W02 05 L01 SCELE/Discord related
+ZCZC W02 200 L02 CLASSROOM/ZOOM meetings related
+ZCZC W02 10 L03 GitHub related
+ZCZC W02 15 L04 GitHub Pages related
+ZCZC W02 180 L05 QUIZ
+ZCZC W02 60 L09 Weekly Assignments 
