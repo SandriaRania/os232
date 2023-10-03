@@ -14,4 +14,10 @@ Link yang berasal dari website ssh.com mengenai ssh key.
 Link yang berasal dari website gnupg.org mengenai gnupg key.
 
 4. [Keempat](https://www.hostinger.com/tutorials/how-to-install-and-use-nano-text-editor)<br>
-Link mengenai nano edito dan basic-basic commands-nya.
+Link mengenai nano editor dan basic-basic commands-nya.
+
+5. [Kelima](https://www.geeksforgeeks.org/c-programming-examples/)<br>
+Link mengenai contoh-contoh program dalam bahasa C.
+
+6. [Keenam](https://www.w3schools.com/c/c_variables.php)<br>
+Link mengenai cara deklarasi variabel dalam bahasa C serta tipe-tipenya.
