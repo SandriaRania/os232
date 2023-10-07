@@ -21,3 +21,6 @@ Link mengenai contoh-contoh program dalam bahasa C.
 
 6. [Keenam](https://www.w3schools.com/c/c_variables.php)<br>
 Link mengenai cara deklarasi variabel dalam bahasa C serta tipe-tipenya.
+
+7. [Ketujuh](https://www.geeksforgeeks.org/logical-and-physical-address-in-operating-system/)<br>
+Link mengenai perbedaan logical dan physical address.
