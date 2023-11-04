@@ -24,3 +24,6 @@ Link mengenai cara deklarasi variabel dalam bahasa C serta tipe-tipenya.
 
 7. [Ketujuh](https://www.geeksforgeeks.org/logical-and-physical-address-in-operating-system/)<br>
 Link mengenai perbedaan logical dan physical address.
+
+8. [Kedelapan](https://delightlylinux.wordpress.com/2012/06/25/what-is-pid-and-ppid/)<br>
+Link mengenai definisi PID dan PPID.
