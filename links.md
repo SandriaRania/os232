@@ -27,3 +27,6 @@ Link mengenai perbedaan logical dan physical address.
 
 8. [Kedelapan](https://delightlylinux.wordpress.com/2012/06/25/what-is-pid-and-ppid/)<br>
 Link mengenai definisi PID dan PPID.
+
+9. [Kesembilan](https://www.geeksforgeeks.org/tar-command-linux-examples/)<br>
+Link mengenai tipe-tipe command tarball.
