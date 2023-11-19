@@ -30,3 +30,6 @@ Link mengenai definisi PID dan PPID.
 
 9. [Kesembilan](https://www.geeksforgeeks.org/tar-command-linux-examples/)<br>
 Link mengenai tipe-tipe command tarball.
+
+10. [Kesepuluh](https://www.linuxfromscratch.org/lfs/view/12.0/)<br>
+Link mengenai sumber asli buku linux from scratch.
