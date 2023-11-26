@@ -33,3 +33,6 @@ Link mengenai tipe-tipe command tarball.
 
 10. [Kesepuluh](https://www.linuxfromscratch.org/lfs/view/12.0/)<br>
 Link mengenai sumber asli buku linux from scratch.
+
+11. [Kesebelas](https://www.futurelearn.com/info/courses/linux-for-bioinformatics/0/steps/201767#:~:text=A%20symlink%20is%20a%20symbolic,directory%20in%20any%20file%20system.)<br>
+Link mengenai symbolic link dan cara memakainya.
